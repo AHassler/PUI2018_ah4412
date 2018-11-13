@@ -13,4 +13,4 @@ My suggestion are: set the x-axis label more clearly; use seaborn to create a gr
 Your classmate, Pengzi Li
 
 --------------------------------------------------------------------------------
-![Alt text](ah4412_plot.png)
+![Alt text](https://github.com/estellaleee/PUI2018_pl1840/blob/master/HW9_pl1840/ah4412_plot.png)
