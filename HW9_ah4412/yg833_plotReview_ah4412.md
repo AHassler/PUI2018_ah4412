@@ -1,7 +1,7 @@
 # Review of Plot by yg833
 By Andrea Hassler (ah4412)
 
-![https://github.com/meiguan/PUI2018_yg833/blob/master/HW8_yg833/Map_Graffiti_Instances.png]
+![Image missing](https://github.com/meiguan/PUI2018_yg833/blob/master/HW8_yg833/Map_Graffiti_Instances.png)
 
 ## Clarity
 The title of the map makes it clear what the map intends to display. However, most of the instances appear to be only one per PUMA. I suggest aggregating the data at a larger area so that you capture more variation, and consequently more color. Then you could color each area rather than use points on the areas.  
