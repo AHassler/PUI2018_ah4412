@@ -1,5 +1,6 @@
 # Homework 12
 Group: Jerome(jl9489), Andrea(ah4412), Tiffany(tp1600), and Fekade(fb1182)
+We did some portions independently, and referenced each other's work throughout.
 
 ## Assignment 1: NYC Subways Part 2
 In this assignment, we continued the subway time series analysis. This time we examined patterns in periodicity and identified the 4 stations with maximum periodicity.
